@@ -1,0 +1,53 @@
+id,lang,idiom,dialect,latitude,longitude,map,value1_name,value1,value2_name,value2,source,pages
+1,Archi,Archib,,42.0664,46.8678,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,kibrik1977,118–119
+2,Aghul,Burshag,Qushan,41.89626,47.64102,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,regular (dec. system),ganenkovmaisak2008,7
+3,Aghul,Arsug,Qushan,41.86408,47.65011,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+4,Aghul,Khudig,Qushan,41.85373,47.65854,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+5,Aghul,Tsirkhe,Tsirkhe,41.91513,47.59679,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+6,Aghul,Fite,Fite,41.79161,47.73998,yes,Numeral systems,both,Irregularity of the decimal ‘40’,both systems,magometov1970,94–97
+7,Aghul,Burkikhan,Burkikhan,41.806356,47.538467,no,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+8,Aghul,Duldug,Central,41.76833,47.67438,no,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+9,Aghul,Kurag,Kurag,41.836764,47.661351,yes,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+10,Aghul,Yarkug,Central,41.79814,47.68435,no,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+11,Aghul,Goa,Central,41.753585,47.703213,no,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+12,Aghul,Khutkhul,Central,41.78517,47.61451,yes,Numeral systems,both,Irregularity of the decimal ‘40’,both systems,ganenkovmaisak2008,7
+13,Aghul,Misi,Central,41.80991,47.60329,no,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+14,Aghul,Tpig,Central,41.780423,47.589523,yes,Numeral systems,both,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+16,Aghul,Bedyuk,Keren,41.716044,47.525715,yes,Numeral systems,both,Irregularity of the decimal ‘40’,,suleymanov1993,118
+17,Aghul,Richa,Keren,41.763646,47.502769,yes,Numeral systems,mixed,Irregularity of the decimal ‘40’,,suleymanov1993,118–120
+18,Aghul,Usug,Keren,41.672481,47.594624,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),magometov1970,94–97
+19,Aghul,Ukuz,Keren,41.696017,47.591355,no,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+20,Aghul,Kvardal,Keren,41.6803,47.56277,no,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+21,Aghul,Khveredzh,Keren,41.70206,47.57218,no,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+22,Aghul,Huppuq’,Keren,41.66667,47.66667,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,ganenkovmaisak2008,7
+23,Rutul,Khnov,,41.378607,47.443605,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+24,Rutul,Ikhrek,,41.693931,47.210005,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+25,Rutul,Luchek,,41.60988,47.307307,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+26,Rutul,Kiche,,41.53146,47.48171,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+27,Rutul,Rutul,,41.5342,47.4269,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+28,Rutul,Kufa,,41.564115,47.376937,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+29,Rutul,Amsar,,41.60348,47.33116,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+30,Rutul,Kina,,41.6166,47.2647,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+31,Rutul,Dzhilikhur,,41.65545,47.26768,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+32,Rutul,Myukhrek,,41.667696,47.280013,no,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+33,Rutul,Shinaz,,41.618658,47.375666,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,alekseevaetal2023,
+34,Tabasaran,Northern Tabasaran,,41.947717,47.945961,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,regular (dec. system),magometov1965,159–163
+35,Tabasaran,Kondik,,41.8028,47.8733,yes,Numeral systems,mixed,Irregularity of the decimal ‘40’,,magometov1965,159–163
+36,Tabasaran,Khiv,,41.7533,47.9286,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),magometov1965,159–163
+37,Tsakhur,Mishlesh,,41.6649,47.089775,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,ibragimov1990,94–95
+38,Tsakhur,Gel’mets,,41.62466,47.17889,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,ibragimov2011,15–16
+39,Lezgian,Standard Lezgian,,41.45904,47.746695,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),haspelmath1993,230–232
+40,Lezgian,Ashar,,41.615664,47.663417,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),murtazaeva2005,16
+41,Lezgian,Gel’khen,,41.659002,47.602833,no,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,pirmagomedova2013,17
+42,Lezgian,Khlyut,,41.496274,47.533824,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),sultalieva2011,15
+43,Lezgian,Maza,,41.31,47.66,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,muradalieva2009,15
+44,Lezgian,Kurush,,41.28083,47.83,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,abdurakhmanova2014,18
+45,Lezgian,Zakhit,,41.732197,48.369784,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),karabekov2013,18
+46,Lezgian,Karakyure,,41.417413,47.962618,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,irregular (vig. system),asadova2013,14
+47,Lezgian,Shimikhyur,,41.6539,47.6994,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,shabanova2006,17
+48,Lezgian,Gogaz,,41.54,47.68,no,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,aliverdieva2006,14
+49,Lezgian,Kimil Quba,,41.37,48.53,yes,Numeral systems,mixed,Irregularity of the decimal ‘40’,,asaliev2003,17
+50,Budukh,Budug,,41.18611,48.36861,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,talibov2007,145–150
+51,Kryz,Alyk,,41.1775,48.23694,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,authier2009,103–104
+52,Udi,Oguz,,41.07083,47.45833,yes,Numeral systems,vigesimal,Irregularity of the decimal ‘40’,,gukasyan1974,281–283
+53,Udi,Nizh,,40.94,47.66833,yes,Numeral systems,decimal,Irregularity of the decimal ‘40’,,gukasyan1974,281–283
