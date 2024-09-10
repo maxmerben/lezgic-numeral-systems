@@ -1,7 +1,6 @@
 library(tidyverse)
 library(lingtypology)
 
-setwd("D:/Учёба/Дагестанские карты/numeral bases/lezgic")
 data <- read_delim("lezgic 2.0.csv", delim = ",")
 
 data <- data[(data$map == "yes"),]
@@ -20,9 +19,6 @@ lang_colors <- c(
   "Tsakhur"="dodgerblue3",
   "Udi"="yellow2"
 )
-
-#data |> 
-#  count(lang, color)
 
 data$color = as.character(lang_colors[data$lang])
 
